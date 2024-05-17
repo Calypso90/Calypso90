@@ -1,8 +1,8 @@
-<h1 align="center">Welcome 👋</h1>
+<h1 align="center">Welcome to my page 👋😊</h1>
 
 ###
 
-<h6 align="center">FULL STACK DEVELOPER | WEB DEVELOPER</h6>
+<h6 align="center">FULL STACK DEVELOPER | FRONTEND DEVELOPER | WEB DEVELOPER</h6>
 
 ###
 
@@ -13,6 +13,9 @@
   <a href="https://www.instagram.com/calypso_coding/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <a href="https://twitter.com/Calypso_coding" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
@@ -21,7 +24,7 @@
 
 ###
 
-<p align="center">Hi, my name is Calypso. I'm a software developer, originally from South Florida and now based in Georgia. I love creating fun, user-friendly web applications with clean, aesthetic designs.. I have a unique blend of experience in both theatre and software development, I bring a diverse skill set to any project I undertake. My background in technical theatre has honed my ability to manage complex projects, coordinate with multidisciplinary teams, and maintain meticulous attention to detail under tight deadlines. In software development, I have applied these organizational skills to coding, developing proficiency in languages such as JavaScript and TypeScript. This combination of creative problem-solving and technical acumen allows me to approach challenges from multiple angles, delivering innovative solutions that are both practical and efficient.</p>
+<h4 align="center">Hi, my name is Calypso. I'm a software developer, originally from South Florida and now based in Georgia. I love creating fun, user-friendly web applications with clean, aesthetic designs.. I have a unique blend of experience in both theatre and software development, I bring a diverse skill set to any project I undertake. My background in technical theatre has honed my ability to manage complex projects, coordinate with multidisciplinary teams, and maintain meticulous attention to detail under tight deadlines. In software development, I have applied these organizational skills to coding, developing proficiency in languages such as JavaScript and TypeScript. This combination of creative problem-solving and technical acumen allows me to approach challenges from multiple angles, delivering innovative solutions that are both practical and efficient.</h4>
 
 ###
 
