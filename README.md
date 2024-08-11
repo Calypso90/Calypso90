@@ -28,7 +28,7 @@
 
 
 <table style="width: 100%; border-collapse: collapse; border: none; margin: 0 auto; padding: 0;">
-    <td width="20%" style="border: none; vertical-align: top; padding: 0;">
+    <td width="25%" style="border: none; vertical-align: top; padding: 0;">
       <div style="list-style-type: none; padding: 0; margin: 0;">
       <p><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></p>
       <p><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></p>
@@ -39,7 +39,7 @@
       <p><img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI" /></p>
       </div>
     </td>
-    <td width="20%" style="border: none; vertical-align: top; padding: 0;">
+    <td width="25%" style="border: none; vertical-align: top; padding: 0;">
       <div style="list-style-type: none; padding: 0; margin: 0;">
       <p><img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></p>
       <p><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next js" /></p>
@@ -49,7 +49,7 @@
       <p><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></p>
       </div>
     </td>
-    <td width="20%" style="border: none; vertical-align: top; padding: 0;">
+    <td width="25%" style="border: none; vertical-align: top; padding: 0;">
       <div style="list-style-type: none; padding: 0; margin: 0;">
       <p><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify" /></p>
       <p><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" /></p>
@@ -58,7 +58,7 @@
       <p><img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></p>
       </div>
     </td>
-    <td width="20%" style="border: none; vertical-align: top; padding: 0;">
+    <td width="25%" style="border: none; vertical-align: top; padding: 0;">
       <div style="list-style-type: none; padding: 0; margin: 0;">
       <p><img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="illustrator" /></p>
       <p><img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="inDesign" /></p>
