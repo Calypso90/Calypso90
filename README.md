@@ -5,9 +5,12 @@
 <div align="center">
   <h3 align="center">Let's Connect!</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/calypso-hernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lynjai-jimenez" height="30" width="40" /></a>
-<a href="https://x.com/Calypso_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdesignsllc" height="30" width="40" /></a>
-<a href="https://www.instagram.com/calypso_coding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="intermedia_designs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/calypso-hernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calypso hernandez linkedin" height="30" width="40" /></a>
+<a href="https://x.com/Calypso_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="calypso hernandez twitter" height="30" width="40" /></a>
+<a href="https://www.instagram.com/calypso_coding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calypso hernandez instagram" height="30" width="40" /></a>
+<a href="mailto:calypsohernandez.dev@gmail.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="calypso hernandez email" height="30" width="40" />
+</a>
 </p>
 </div>
 
@@ -24,8 +27,7 @@
 <h2 align="left">💻 TECH STACK:</h2>
 
 
-<table style="width: 100%; border-collapse: collapse; border: none; margin: 0; padding: 0; align: center;">
-  <tr style="border: none;">
+<table style="width: 100%; border-collapse: collapse; border: none; margin: 0 auto; padding: 0;">
     <td width="20%" style="border: none; vertical-align: top; padding: 0;">
       <div style="list-style-type: none; padding: 0; margin: 0;">
       <p><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></p>
