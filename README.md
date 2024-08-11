@@ -23,7 +23,7 @@
 
 <h2>💻 TECH STACK:</h2>
 
-<table style="width: 100%; border-collapse: collapse; border: none; margin: 0; padding: 0; align: center;">
+<table style="width: 100%; border-collapse: collapse; border: none; margin: 0; padding: 0">
     <td width="25%" style="border: none; vertical-align: top; padding: 0;">
       <div style="list-style-type: none; padding: 0; margin: 0;">
       <p><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></p>
