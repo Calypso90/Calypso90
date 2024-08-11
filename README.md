@@ -2,13 +2,13 @@
   <img src="banner.gif" />
 </p>
 
-###
-
-<h3 align="center">FULL STACK DEVELOPER | FRONTEND DEVELOPER | WEB DEVELOPER</h3>
-
-###
-
 <div align="center">
+  <h3 align="center">Let's Connect!</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/calypso-hernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lynjai-jimenez" height="30" width="40" /></a>
+<a href="https://x.com/Calypso_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdesignsllc" height="30" width="40" /></a>
+<a href="https://www.instagram.com/calypso_coding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="intermedia_designs" height="30" width="40" /></a>
+</p>
   <a href="https://www.linkedin.com/in/calypso-hernandez/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
