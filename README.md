@@ -15,13 +15,13 @@
 
 <br>
 
-<h2 align="center">👩‍💻  About Me</h2>
+<h2>👩‍💻  About Me</h2>
 
-<p align="center">Hi, I'm Calypso, a software developer currently based in Georgia, originally from South Florida. I specialize in crafting engaging, user-friendly web applications with clean, aesthetically pleasing designs. With a unique background in both theatre and software development, I bring a diverse skill set to every project. My experience in technical theatre has sharpened my ability to manage complex projects, collaborate with multidisciplinary teams, and maintain a keen eye for detail, even under tight deadlines. In software development, I've applied these organizational skills to coding, building proficiency in languages like JavaScript and TypeScript. This blend of creative problem-solving and technical expertise allows me to tackle challenges from various perspectives, delivering innovative and efficient solutions.</p>
+<p>Hi, I'm Calypso, a software developer currently based in Georgia, originally from South Florida. I specialize in crafting engaging, user-friendly web applications with clean, aesthetically pleasing designs. With a unique background in both theatre and software development, I bring a diverse skill set to every project. My experience in technical theatre has sharpened my ability to manage complex projects, collaborate with multidisciplinary teams, and maintain a keen eye for detail, even under tight deadlines. In software development, I've applied these organizational skills to coding, building proficiency in languages like JavaScript and TypeScript. This blend of creative problem-solving and technical expertise allows me to tackle challenges from various perspectives, delivering innovative and efficient solutions.</p>
 
 <br>
 
-<h2 align="left">💻 TECH STACK:</h2>
+<h2>💻 TECH STACK:</h2>
 
 <table style="width: 100%; border-collapse: collapse; border: none; margin: 0 auto; padding: 0;">
     <td width="25%" style="border: none; vertical-align: top; padding: 0;">
