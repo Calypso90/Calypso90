@@ -1,4 +1,6 @@
-<h1 align="center">Welcome to my page 👋😊</h1>
+<p align="center">
+  <img src="banner.gif" />
+</p>
 
 ###
 
