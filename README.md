@@ -17,7 +17,7 @@
 
 ###
 
-<p align="center">Hi, my name is Calypso. I'm a software developer, originally from South Florida and now based in Georgia. I love creating fun, user-friendly web applications with clean, aesthetic designs.. I have a unique blend of experience in both theatre and software development, I bring a diverse skill set to any project I undertake. My background in technical theatre has honed my ability to manage complex projects, coordinate with multidisciplinary teams, and maintain meticulous attention to detail under tight deadlines. In software development, I have applied these organizational skills to coding, developing proficiency in languages such as JavaScript and TypeScript. This combination of creative problem-solving and technical acumen allows me to approach challenges from multiple angles, delivering innovative solutions that are both practical and efficient.</p>
+<p align="center">Hi, I'm Calypso, a software developer currently based in Georgia, originally from South Florida. I specialize in crafting engaging, user-friendly web applications with clean, aesthetically pleasing designs. With a unique background in both theatre and software development, I bring a diverse skill set to every project. My experience in technical theatre has sharpened my ability to manage complex projects, collaborate with multidisciplinary teams, and maintain a keen eye for detail, even under tight deadlines. In software development, I've applied these organizational skills to coding, building proficiency in languages like JavaScript and TypeScript. This blend of creative problem-solving and technical expertise allows me to tackle challenges from various perspectives, delivering innovative and efficient solutions.</p>
 
 ###
 
