@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h3 align="center">Let's Connect!</h3>
+  <h2 align="center">Let's Connect!</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/calypso-hernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calypso hernandez linkedin" height="30" width="40" /></a>
 <a href="https://x.com/Calypso_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="calypso hernandez twitter" height="30" width="40" /></a>
@@ -15,7 +15,7 @@
 
 <br>
 
-<h4 align="center">👩‍💻  About Me</h4>
+<h2 align="center">👩‍💻  About Me</h2>
 
 <p align="center">Hi, I'm Calypso, a software developer currently based in Georgia, originally from South Florida. I specialize in crafting engaging, user-friendly web applications with clean, aesthetically pleasing designs. With a unique background in both theatre and software development, I bring a diverse skill set to every project. My experience in technical theatre has sharpened my ability to manage complex projects, collaborate with multidisciplinary teams, and maintain a keen eye for detail, even under tight deadlines. In software development, I've applied these organizational skills to coding, building proficiency in languages like JavaScript and TypeScript. This blend of creative problem-solving and technical expertise allows me to tackle challenges from various perspectives, delivering innovative and efficient solutions.</p>
 
