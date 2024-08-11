@@ -11,15 +11,14 @@
 </p>
 </div>
 <p align="center">📫 How to reach me: <br/> <a href="mailto:calypsohernandez.dev@gmail.com" target="_blank" alt="email">calypsohernandez.dev@gmail.com</a></p>
-<br/>
 
-<br>
+<br/>
 
 <h2>👩‍💻  About Me</h2>
 
 <p>Hi, I'm Calypso, a software developer currently based in Georgia, originally from South Florida. I specialize in crafting engaging, user-friendly web applications with clean, aesthetically pleasing designs. With a unique background in both theatre and software development, I bring a diverse skill set to every project. My experience in technical theatre has sharpened my ability to manage complex projects, collaborate with multidisciplinary teams, and maintain a keen eye for detail, even under tight deadlines. In software development, I've applied these organizational skills to coding, building proficiency in languages like JavaScript and TypeScript. This blend of creative problem-solving and technical expertise allows me to tackle challenges from various perspectives, delivering innovative and efficient solutions.</p>
 
-<br>
+<br/>
 
 <h2>💻 TECH STACK:</h2>
 
