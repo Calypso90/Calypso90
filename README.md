@@ -10,7 +10,8 @@
 <a href="https://www.instagram.com/calypso_coding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calypso hernandez instagram" height="30" width="40" /></a>
 </p>
 </div>
-- 📫 How to reach me **calypsohernandez.dev@gmail.com**
+<p align="center">📫 How to reach me: <br/> <a href="mailto:calypsohernandez.dev@gmail.com" target="_blank" alt="email">calypsohernandez.dev@gmail.com</a></p>
+<br/>
 
 <br>
 
