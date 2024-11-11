@@ -16,7 +16,7 @@
 
 <h2>👩‍💻  About Me</h2>
 
-<p>Hi, I'm Calypso, a Georgia-based software engineer with a unique background in technical theatre and education. I specialize in building user-friendly web applications with clean, engaging designs, drawing from my experience in managing complex projects and collaborating with diverse teams. With proficiency in JavaScript, React, Next.js, Node.js, and Tailwind CSS, I focus on delivering high-performance, accessible interfaces that meet both user needs and business goals.
+<p>Hello! My name is Calypso, I'm a Georgia-based <b>Software Engineer</b> with a unique background in technical theatre/design and education. I specialize in building user-friendly web applications with clean, engaging designs, drawing from my experience in managing complex projects and collaborating with diverse teams. With proficiency in JavaScript, React, Next.js, Node.js, and Tailwind CSS, I focus on delivering high-performance, accessible interfaces that meet both user needs and business goals.
 
 My teaching experience has honed my ability to simplify complex technical concepts, fostering better communication and collaboration across teams. I thrive in fast-paced, creative environments where problem-solving, attention to detail, and innovation intersect, and I'm passionate about tackling new challenges to drive impactful digital solutions.</p>
 
