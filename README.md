@@ -8,8 +8,10 @@
 <a href="https://www.linkedin.com/in/calypso-hernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calypso hernandez linkedin" height="30" width="40" /></a>
 <a href="https://x.com/Calypso_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="calypso hernandez twitter" height="30" width="40" /></a>
 <a href="https://www.instagram.com/calypso_coding/" target="blank"><img align="center" src="assets/Bluesky_Logo.svg.png" alt="calypso hernandez bluesky" height="30" width="40" /></a>
-</p>
 <a href="https://bsky.app/profile/calypso-coding.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calypso hernandez instagram" height="30" width="40" /></a>
+<a href="https://medium.com/@calypso_coding" target="blank"><img align="center" src="assets/medium_blog.png" alt="calypso hernandez medium blog" height="30" width="40" /></a>
+</div>
+</p>
 </div>
 <p align="center">📫 How to reach me: <br/> <a href="mailto:calypsohernandez.dev@gmail.com" target="_blank" alt="email">calypsohernandez.dev@gmail.com</a></p>
 
