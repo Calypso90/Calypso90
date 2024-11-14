@@ -8,8 +8,8 @@
 <a href="https://www.linkedin.com/in/calypso-hernandez/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calypso hernandez linkedin" height="30" width="40" /></a>
 <a href="https://x.com/Calypso_coding" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="calypso hernandez twitter" height="30" width="40" /></a>
 <a href="https://www.instagram.com/calypso_coding/" target="_blank"><img align="center" src="assets/Bluesky_Logo.svg.png" alt="calypso hernandez bluesky" height="30" width="40" /></a>
-<a href="https://bsky.app/profile/calypso-coding.bsky.social" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calypso hernandez instagram" height="30" width="40" /></a>
 <a href="https://medium.com/@calypso_coding" target="_blank"><img align="center" src="assets/Medium_logo.svg.png" alt="calypso hernandez medium blog" height="20"/></a>
+<a href="https://bsky.app/profile/calypso-coding.bsky.social" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calypso hernandez instagram" height="30" width="40" /></a>
 </div>
 </p>
 </div>
