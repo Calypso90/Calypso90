@@ -12,6 +12,7 @@
 </div>
 <div align="center">
 <a href="https://medium.com/@calypso_coding" target="_blank"><img align="center" src="assets/Medium_logo.svg.png" alt="calypso hernandez medium blog" height="20"/></a>
+<a href="https://sessionize.com/calypso-hernandez/" target="_blank"><img align="center" src="assets/sessionize-icon.png" alt="calypso hernandez medium blog" height="20"/></a>
 </div>
 </p>
 </div>
