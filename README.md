@@ -16,7 +16,7 @@
 </div>
 </p>
 </div>
-<p align="center">📫 How to reach me: <br/> <a href="mailto:calypsohernandez.dev@gmail.com" target="_blank" alt="email">calypsohernandez.dev@gmail.com</a></p>
+<p align="center">📫 How to reach me: <br/> <a href="mailto:calypsohernandez.dev@gmail.com" target="_blank" alt="email">Email me!</a></p>
 
 <br/> 
 
